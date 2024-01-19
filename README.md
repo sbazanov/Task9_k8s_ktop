@@ -26,4 +26,5 @@ The following compatible plugins are available:
 ```k kubeplugin node kube-system```
 
 ```k kubeplugin pod kube-system```
+
 ![Task9_kubeplugin_output](https://github.com/sbazanov/Task9_k8s_ktop/assets/96147501/985d191a-bcfc-40ad-a25a-851439f96585)
